@@ -67,15 +67,15 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajanverma1&show_icons=true&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanverma1&layout=compact&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanverma1&theme=github-dark"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajanverma1&theme=algolia&row=1&column=6"/>
 
 </p>
 
@@ -111,15 +111,15 @@ To build a career at the intersection of **Finance**, **Business Intelligence**,
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://github.com/rajanverma1)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rv9575332@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rajanverma1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -133,7 +133,7 @@ To build a career at the intersection of **Finance**, **Business Intelligence**,
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rajanverma1\&style=for-the-badge)
 
 </p>
 
