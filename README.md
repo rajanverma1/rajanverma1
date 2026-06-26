@@ -7,7 +7,7 @@ Transforming Financial Data into Actionable Business Insights 📊
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Finance+%7C+Business+Intelligence;Aspiring+Business+Analyst;Future+Risk+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+Excel" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Finance+%7C+Business+Intelligence;Aspiring+Business+Analyst;Future+Risk+Analyst;Power+BI+%7C+Python+%7C+Excel" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 * 🎓 MBA Student specializing in **Finance** and **Business Intelligence & Data Analytics**
 * 📊 Passionate about Business Analytics, Financial Analysis, and Risk Management
-* 📈 Building real-world projects using **Power BI, SQL, Excel, and Python**
+* 📈 Building real-world projects using **Power BI, Excel, and Python**
 * 🌱 Currently learning **Financial Modeling, Credit Risk Analysis, and Advanced Power BI**
 * 🎯 Seeking opportunities as a **Business Analyst, Financial Analyst, or Risk Analyst**
 
@@ -26,7 +26,7 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 
 </p>
 
@@ -35,8 +35,6 @@ Transforming Financial Data into Actionable Business Insights 📊
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Finance-003366?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
@@ -50,23 +48,19 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 📊 **Credit Risk Analysis Dashboard**
 
-* Power BI dashboard for analyzing customer creditworthiness using KPIs and financial metrics.
+* Interactive Power BI dashboard for evaluating customer creditworthiness using financial KPIs.
 
 📈 **Financial Performance Dashboard**
 
-* Interactive dashboard tracking revenue, expenses, profitability, and business performance.
-
-🗄️ **SQL Business Analytics**
-
-* SQL queries using joins, CTEs, window functions, and aggregations for business reporting.
+* Dashboard visualizing revenue, expenses, profitability, and key financial metrics.
 
 📉 **Excel Finance Dashboard**
 
-* Dynamic Excel dashboard featuring PivotTables, slicers, charts, and KPIs.
+* Dynamic dashboard with PivotTables, charts, slicers, and financial KPIs.
 
 🐍 **Python Financial Data Analysis**
 
-* Data analysis and visualization using Pandas, NumPy, and Matplotlib.
+* Financial data analysis and visualization using Pandas, NumPy, and Matplotlib.
 
 ---
 
@@ -75,7 +69,6 @@ Transforming Financial Data into Actionable Business Insights 📊
 * 📘 Basics of Stock Market
 * 📗 NISM *(In Progress)*
 * 📙 Power BI
-* 📕 SQL
 * 📔 Advanced Microsoft Excel
 * 📓 Python for Data Analysis
 
@@ -113,16 +106,15 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 * Financial Modeling
 * Credit Risk Analysis
-* Power BI (Advanced DAX)
-* Business Consulting
+* Advanced Power BI (DAX & Power Query)
 * Python for Finance
-* Data Visualization
+* Business Consulting
 
 ---
 
 ## 🎯 Career Goal
 
-To leverage my knowledge of **Finance**, **Business Intelligence**, and **Data Analytics** to solve complex business problems, improve financial decision-making, and contribute to organizational growth through data-driven insights.
+To leverage my knowledge of **Finance**, **Business Intelligence**, and **Data Analytics** to solve business problems, improve financial decision-making, and create impactful, data-driven solutions.
 
 ---
 
