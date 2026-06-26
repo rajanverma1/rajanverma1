@@ -3,7 +3,7 @@
 <h3 align="center">MBA Student | Finance | Business Intelligence & Data Analytics</h3>
 
 <p align="center">
-Transforming Financial Data into Actionable Business Insights 📊
+💹 Transforming Financial Data into Actionable Business Insights
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 ## 👨‍💼 About Me
 
-* 🎓 MBA Student specializing in **Finance** and **Business Intelligence & Data Analytics**
-* 📊 Passionate about Business Analytics, Financial Analysis, and Risk Management
-* 📈 Building real-world projects using **Power BI, Excel, and Python**
+* 🎓 MBA student specializing in **Finance** and **Business Intelligence & Data Analytics**
+* 💹 Passionate about financial analysis, business intelligence, and data-driven decision-making
+* 📈 Developing real-world projects using **Power BI, Excel, and Python**
 * 🌱 Currently learning **Financial Modeling, Credit Risk Analysis, and Advanced Power BI**
-* 🎯 Seeking opportunities as a **Business Analyst, Financial Analyst, or Risk Analyst**
+* 🎯 Aspiring **Business Analyst, Financial Analyst, and Risk Analyst**
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 
@@ -44,31 +44,20 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-📊 **Credit Risk Analysis Dashboard**
-
-* Interactive Power BI dashboard for evaluating customer creditworthiness using financial KPIs.
-
-📈 **Financial Performance Dashboard**
-
-* Dashboard visualizing revenue, expenses, profitability, and key financial metrics.
-
-📉 **Excel Finance Dashboard**
-
-* Dynamic dashboard with PivotTables, charts, slicers, and financial KPIs.
-
-🐍 **Python Financial Data Analysis**
-
-* Financial data analysis and visualization using Pandas, NumPy, and Matplotlib.
+* 💹 **Credit Risk Analysis Dashboard** – Interactive Power BI dashboard for credit risk evaluation.
+* 📈 **Financial Performance Dashboard** – Revenue, expenses, profitability, and KPI reporting.
+* 📑 **Excel Finance Dashboard** – Dynamic Excel dashboards with PivotTables and slicers.
+* 🐍 **Python Financial Data Analysis** – Data analysis and visualization using Pandas and Matplotlib.
 
 ---
 
-## 📜 Certifications
+## 📚 Certifications
 
 * 📘 Basics of Stock Market
 * 📗 NISM *(In Progress)*
-* 📙 Power BI
+* 📙 Microsoft Power BI
 * 📔 Advanced Microsoft Excel
 * 📓 Python for Data Analysis
 
@@ -92,7 +81,7 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -102,7 +91,7 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 * Financial Modeling
 * Credit Risk Analysis
@@ -112,9 +101,9 @@ Transforming Financial Data into Actionable Business Insights 📊
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To leverage my knowledge of **Finance**, **Business Intelligence**, and **Data Analytics** to solve business problems, improve financial decision-making, and create impactful, data-driven solutions.
+To build a career at the intersection of **Finance**, **Business Intelligence**, and **Data Analytics**, helping organizations make smarter, data-driven decisions through insightful analysis and innovative solutions.
 
 ---
 
@@ -151,5 +140,5 @@ To leverage my knowledge of **Finance**, **Business Intelligence**, and **Data A
 ---
 
 <h3 align="center">
-⭐ Turning Data into Decisions • Finance into Strategy • Analytics into Impact ⭐
+💼 Turning Data into Decisions • Finance into Strategy • Analytics into Impact
 </h3>
